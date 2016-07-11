@@ -1,8 +1,23 @@
+name: retail.place
+favicon: null
 layout_spectrum: 0.2021712
 typography_spectrum: 0.4495834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8538355
-  lightness: 0.7273498
+  brandColors: []
   brandStrength: 0.4322186
+  lightness: 0.7273498
+  saturation: 0.8538355
   rhythmicContrast: 0.9225273
-name: retail.place
+purpose: []
