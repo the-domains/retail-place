@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[retail.place]]></title>
         <description><![CDATA[retail.place]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://retail.place/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 06:51:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 03:42:14 GMT</lastBuildDate>
+        <atom:link href="http://retail.place/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test </p>]]></description>
+            <link>http://retail.place/test/index.html</link>
+            <guid isPermaLink="false">c22b30a9-48cf-4592-aaf6-7ea87063c3b4</guid>
+            <pubDate>Fri, 02 Sep 2016 03:41:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Mansour Allaf</p>]]></description>
-            <link>undefinedmansour-allaf/index.html</link>
+            <link>http://retail.place/mansour-allaf/index.html</link>
             <guid isPermaLink="false">00971336-a460-411c-a203-d11b3b6b3de4</guid>
             <pubDate>Mon, 11 Jul 2016 06:51:31 GMT</pubDate>
         </item>
